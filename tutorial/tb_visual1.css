@@ -21,6 +21,7 @@ figure{
    border-image: url(tb_border.png) 50 repeat;
    margin: 20px auto 0px;
    width: 80%;
+   opacity: .55;
 }
 figure img {
    display: block;
