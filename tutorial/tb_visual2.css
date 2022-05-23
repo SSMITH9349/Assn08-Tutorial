@@ -32,6 +32,9 @@ figure#figure3 {
                rotateY(-70deg) translateZ(-20px);
    box-shadow: rgb(101,101,101) 10px -10px 25px;
 }
+figure#figure1{
+   filter:sepia(0.8);
+}
 
 article{
    perspective:600px;
